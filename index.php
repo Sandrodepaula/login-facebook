@@ -42,7 +42,7 @@
                     <div class="w50">
                         <input placeholder="Nome" type="text">
                     </div>
-                    <div class="w50">
+                    <div class="w50-nome">
                         <input placeholder="Sobrenome" type="text">
                     </div>
                     <div class="w100">
@@ -100,19 +100,25 @@
     <section class="linguas">
         <div class="center">
             <a href="#" class="selected-lingua">Português (BR)</a>
-            <a href="#">Português (BR)</a>
-            <a href="#">Português (BR)</a>
-            <a href="#">Português (BR)</a>
-            <a href="#">Português (BR)</a>
-            <a href="#">Português (BR)</a>
+            <a href="#">English (US)</a>
+            <a href="#">Español</a>
+            <a href="#">Français (France)</a>
+            <a href="#">Italiano</a>
+            <a href="#">Deutsch</a>
+            <a href="#">العربية</a>
         </div>
-        <div style="border:0;padding:20px" class="center">
-            <a href="#">Português (BR)</a>
-            <a href="#">Português (BR)</a>
-            <a href="#">Português (BR)</a>
-            <a href="#">Português (BR)</a>
-            <a href="#">Português (BR)</a>
-            <a href="#">Português (BR)</a>
+        <div style="border:0;padding:10px" class="center">
+            <a href="#">Cadastre-se</a>
+            <a href="#">Entrar</a>
+            <a href="#">Messenger</a>
+            <a href="#">Facebook Lite</a>
+            <a href="#">Watch</a>
+            <a href="#">Locais</a>
+            <a href="#">Jogos</a>
+            <a href="#">Marketplace</a>
+            <a href="#">Meta Pay</a>
+            <a href="#">Loja da Meta</a>
+            <a href="#">Meta Quest</a>
     </section>
     
 </body>
