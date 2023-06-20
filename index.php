@@ -33,7 +33,7 @@
     <section class="main">
         <div class="center">
             <div class="img-pessoas">
-                <img src="imagem/Facebook Login Welcome To Facebook Page.png" alt="">
+                <img src="imagem/pessoas.png" alt="">
             </div>
             <div class="abrir-conta">
                 <h2>Abra sua conta</h2>
